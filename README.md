@@ -22,7 +22,3 @@ Users can input a value, and the speedometer's **needle & progress arc animate s
 - 📳 **Haptic Feedback** – tactile response when updating value  
 - ♻️ **Modular Code** – reusable SwiftUI views for better maintainability  
 
----
-
-## 📂 Project Structure
-
