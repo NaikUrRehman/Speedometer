@@ -1,0 +1,25 @@
+
+---
+
+## ⚙️ How It Works
+- 🧩 **State Management** – `@State` variables handle value, angle, input, and errors
+- ⌨️ **User Input** – number entered → tap **SET**
+- ✅ **Validation** – clamps values (0 → 150,000) and rejects invalid input
+- 📐 **Angle Mapping** – converts input value → correct needle angle
+- 🎞️ **UI Updates** – smooth `.easeInOut` animations for needle & arc
+- 📳 **Haptics** – vibration feedback when value is successfully updated
+
+---
+
+## 🛠️ How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/NaikUrRehman/Speedometer.git
+
+# Navigate to the project
+cd Speedometer/speedometer\ task
+
+# Open in Xcode
+open "speedometer task.xcodeproj"
+

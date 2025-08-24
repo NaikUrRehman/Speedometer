@@ -109,6 +109,7 @@ struct SpeedometerDial: View {
         }
         return 1
     }
+    
     private func cleanLabel(_ val: Double) -> String {
         if val >= 100_000 {
             return "100k+"
