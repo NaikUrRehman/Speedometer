@@ -8,7 +8,7 @@ A simple yet elegant **iOS application** built with **SwiftUI** that demonstrate
 Users can input a value, and the speedometer's **needle & progress arc animate smoothly** to reflect the new reading.
 
 <p align="center">
-  <img src="screenshots/demo.gif" alt="Speedometer Demo" width="300"/>
+  <img src="screenshots/demo.png" alt="Speedometer Demo" width="300"/>
 </p>
 
 ---
